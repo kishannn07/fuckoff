@@ -9,7 +9,7 @@
 - restart
 
 # Deploy To Heroku 🚀
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Badnam-xD/fuckoff)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kishannn07/fuckoff)
 
 # Credits
 * [RiZoeL Creator](https://github.com/MrRizoel)
