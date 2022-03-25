@@ -1,4 +1,4 @@
-# Ban All Bot
+# fuck All Bot
 
 - This is a Sudo Based Members Banning Bot 
  
